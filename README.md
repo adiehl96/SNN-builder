@@ -1,6 +1,6 @@
 # SNN-builder
 
-Build spiking neural networks from scratch in an intuitive UI and execute them on the fly with the [SNNSimulator](https://gitlab.socsci.ru.nl/snnsimulator/simsnn) (part of this repository).
+Build spiking neural networks from scratch in an intuitive UI and execute them on the fly with the [SNNSimulator](https://gitlab.socsci.ru.nl/neuromorphiccomputing/simsnn) (part of this repository).
 
 ## Getting started as a user
 ### 1) Requirements
