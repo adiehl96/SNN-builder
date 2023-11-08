@@ -2,12 +2,12 @@ name: snn-builder
 channels:
   - defaults
 dependencies:
-  - python=3.8
-  - numpy=1.19.1
-  - matplotlib=3.3.1
-  - networkx=2.6.2
+  - python=3.11
+  - numpy
+  - matplotlib
+  - networkx
   - flask=2.2.2
   - flask-cors=3.0.10
-  - pip=22
-  - pip:
-      - jupyterlab==3.1.10
+  - waitress
+  - pip
+  - jupyterlab
